@@ -13,7 +13,7 @@
 </a>
 
 <br/>
-
+<p>
 
 - 👋 Hi, I’m David Cifuentes
 - 👀 I’m interested in ...
