@@ -20,8 +20,7 @@
 - 👋 Hi, <p>Welcome to my page! </br> I'm David Cifuentes, Back End developer from <img src="https://cdn-icons-png.flaticon.com/512/630/630615.png" width="13"/> <b>CDMX, Mexico</b></p>
 - 👀 I’m interested in continuing to learn new technologies, apply my knowledge in any area of gaming, VR or AR experiences, productivity improvement, artificial intelligence, machine learning, Block Chain and web 3.0 and I love to share my knowledge
 - 🌱 I’m currently learning Data Science, Block Chain and Smart Contracts
-- 💞️ I’m looking to collaborate on Data Science, VR and AR, or any productivity improvement project
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Data Science, VR and AR experience, Game, or any productivity improvement project
 
 **languages and tools:**  
 <p>
@@ -54,6 +53,9 @@
   <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> 
   
+</p>
+<h3>Where to find me</h3>
+<p><a href="https://github.com/Jodaci" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Davidcifu4" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/jose-david-cifuentes-061a43b7" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 <!---
 Jodaci/Jodaci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
