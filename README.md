@@ -54,7 +54,7 @@ Backend Developer
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> 
   
   
-  
+<b>My GitHub Stats</b>
 <a href="https://github.com/Jodaci" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jodaci&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
   
 </p>
