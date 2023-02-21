@@ -21,7 +21,7 @@ Backend Developer
 
 - 👋 Hi, <p>Welcome to my page! </br> I am based on <img src="https://cdn-icons-png.flaticon.com/512/630/630615.png" width="13"/> <b>CDMX, Mexico</b></p>
 
-- 👀 I’m interested in continuing to learn new technologies, apply my knowledge in any area of gaming, VR or AR experiences, productivity improvement, artificial intelligence, machine learning, Block Chain and web 3.0.
+- 👀 I’m interested in continuing to learn new technologies, apply my knowledge in any area of Data Science, productivity improvement, artificial intelligence, machine learning, Block Chain and web 3.0,  VR or AR experiences.
 
 - 🧠 I love to share my knowledge
 
